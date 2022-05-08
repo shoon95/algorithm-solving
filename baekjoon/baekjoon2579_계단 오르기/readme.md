@@ -1,6 +1,6 @@
-# BAEKJOON 1463 1로 만들기
+# BAEKJOON 2579 계단 오르기
 
-### [🏸문제](https://www.acmicpc.net/problem/1463) 
+### [🏸문제](https://www.acmicpc.net/problem/2579) 
 
 <hr>
 
